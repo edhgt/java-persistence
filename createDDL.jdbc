@@ -1,0 +1,1 @@
+CREATE TABLE students (id INTEGER AUTO_INCREMENT NOT NULL, birthday DATE, dni VARCHAR(255), first_name VARCHAR(255), last_name VARCHAR(255), PRIMARY KEY (id))
